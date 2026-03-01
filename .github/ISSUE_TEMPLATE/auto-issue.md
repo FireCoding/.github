@@ -1,7 +1,7 @@
 ---
 name: Auto Issue
 about: Use this template for automated task tracking.
-title: "[AUTO]: "
+title: ""
 labels: []
 assignees: ''
 ---
