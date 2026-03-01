@@ -1,3 +1,10 @@
+---
+name: Auto Issue
+description: Use this template for automated task tracking.
+title: "[AUTO]: "
+labels: []
+assignees: ''
+---
 # Goal
 Brief concept here...
 
